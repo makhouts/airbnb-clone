@@ -4,13 +4,14 @@ import { HomeScreen } from './src/screens/Home';
 import { Post } from './src/components/Post';
 import { SearchResult } from './src/screens/SearchResult';
 import feed from './feed';
+import { DestinationSearch } from './src/screens/DestinationSearch';
 
 
 
 const App = () => {
   return (
     <SafeAreaView>
-      <SearchResult />
+      <DestinationSearch />
     </SafeAreaView>
   );
 };
