@@ -1,2 +1,2 @@
-# airbnb-clone
+# airbnbClone
 Airbnb-Clone-React-Native
